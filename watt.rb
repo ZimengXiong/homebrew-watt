@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "watt" do
-  version "1.0.1"
-  sha256 "737c6c2e060c662dbc1f0975c6b4f2dd72c287035accde7d0aa2d0e2f8be1a00"
+  version "1.0.3"
+  sha256 "c34eecbea83836ead356b17e1f6741c3b67ad4105907ffbab8195a1e82cac7c6"
 
   url "https://github.com/zimengxiong/watt/releases/download/v#{version}/Watt.app.zip"
   name "Watt"
