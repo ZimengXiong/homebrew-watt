@@ -3,7 +3,7 @@
 
 cask "watt" do
   version "1.0.1"
-  sha256 "04f14385ab551718d51f69a07c29892e7ba16ee96dc4ee9a037b02993eccc5ae"
+  sha256 "737c6c2e060c662dbc1f0975c6b4f2dd72c287035accde7d0aa2d0e2f8be1a00"
 
   url "https://github.com/zimengxiong/watt/releases/download/v#{version}/Watt.app.zip"
   name "Watt"
